@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/MoodsCorner">
+    <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" 
+              logAbandoned="true" maxIdle="30" maxWait="10000" name="jdbc/projectDB" 
+              naxActive="100" username="root" password="423248193" removeAbandoned="true" 
+              removeAbandonedTimeout="60" type="javax.sql.DataSource" 
+              url="jdbc:mysql://localhost:3306/projectDB?autoReconnect=true" 
+              />
+    <!--<Resource name="jdbc/projectDB" auth="Container" 
+    driverClassName="com.mysql.jdbc.Driver"
+    url="jdbc:mysql://127.5.78.2:3306/projectDB?autoReconnect=true"
+    username="admin296tGau" password="kb8n-CMVarR6"
+    naxActive="100" maxIdle="30" maxWait="10000"
+    logAbandoned="true" removeAbandoned="true"
+    removeAbandonedTimeout="60" type="javax.sql.DataSource"/> -->
+        
+    <Realm className="org.apache.catalina.realm.DataSourceRealm"
+   dataSourceName="jdbc/projectDB" localDataSource="true"
+   userTable="users" userNameCol="email" userCredCol="password"
+   userRoleTable="roles" roleNameCol="role"/>
+</Context>

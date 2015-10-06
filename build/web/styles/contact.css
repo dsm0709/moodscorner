@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 17, 2014, 12:34:25 PM
+    Author     : July
+*/
+
+.main_font{
+    font-family: Bradley Hand ITC TT;
+    font-size: 120%;
+    text-align: center;
+    padding-top: 100px;
+
+}
+.link_style{
+    text-decoration: none;
+    color: #999999;
+    text-align: right;
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/com/controller/OrderController.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/com/controller/itemController.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/index.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/META-INF/context.xml</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/Model/OrderDB.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/includes/user-navigation.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/styles/main.css</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/cart.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/item.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/Util/ConnectionPool.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/com/controller/CatalogController.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/includes/footer.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/includes/header.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/com/controller/AdminController.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/WEB-INF/classes/Model/Cart.java</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/order.jsp</file>
+            <file>file:/Users/July/NetBeansProjects/MoodsCorner/admin.jsp</file>
+        </group>
+    </open-files>
+</project-private>

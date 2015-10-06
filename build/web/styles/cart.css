@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 29, 2014, 5:26:49 PM
+    Author     : July
+*/
+.cart_head{
+    height: 100%;
+    width: auto;
+    height: 300px;
+}
+.cart_title{
+    font-family: Bradley Hand ITC TT;
+    color: red;
+    font-size: 240%;
+    margin-left: 100px;
+
+}
+.cart_tips{
+    float:right;
+    margin-top: 0px;
+    color: #999999;
+    font-size: 90%;
+}
+table{
+    margin-left: 100px;
+    width: 80%;
+    
+    color:#333333;
+}
+.cart_list_frame{
+    margin-left: 100px;
+    width: 80%;
+    
+}
+th,td{
+    text-align: right;
+}
+.top_line{
+    border-bottom-style: solid;
+}
+.bottom_line{
+    border-top-style: solid;
+}
+.left_side{
+    text-align: left;
+}
+input{
+    width:15%;
+    text-align: right
+}
+.btn_update{
+    margin-top: 20px;
+    margin-right: 170px;
+    float: right;
+    border:dashed;
+    color:white;
+    background-color: #6AB4FF;
+    width:120px;
+    height:40px;
+}
+.btn_checkout{
+    margin-top: 20px;
+    margin-right: 10px;
+    float: right;
+    border:dashed;
+    color:white;
+    background-color: #6AB4FF;
+    width:120px;
+    height:40px;
+}
+.btn_content{
+    text-align: center;
+    margin: 12px;
+    font-family: Arial;
+    font-size: 90%
+}
+a{
+    color: black;
+    text-decoration: none;
+}

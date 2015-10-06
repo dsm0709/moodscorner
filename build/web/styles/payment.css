@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 22, 2014, 11:15:44 AM
+    Author     : July
+*/
+
+.table_position{
+    width: 600px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+}
+.payment_title{
+    font-weight: bold;
+    font-size: 18px;
+}
+.card_number{
+    width:120px;
+}
+.make_center{
+    text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
